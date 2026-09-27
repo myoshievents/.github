@@ -1,2 +1,0 @@
-# .github
-My Oshi Events

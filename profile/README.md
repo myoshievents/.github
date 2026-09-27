@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Kayla Kremer Banner](https://github.com/myoshievents/.github/blob/main/images/My-Oshi-Events-header.png)](https://www.myoshievents.com)
+
 <!--
 
 **Here are some ideas to get you started:**

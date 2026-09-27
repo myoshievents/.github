@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Kayla Kremer Banner](https://github.com/myoshievents/.github/blob/main/images/My-Oshi-Events-header.png)](https://www.myoshievents.com)
+[![Kayla Kremer Banner](https://github.com/myoshievents/.github/blob/main/images/header.png)](https://www.myoshievents.com)
 
 <!--
 

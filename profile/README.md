@@ -1,1 +1,2 @@
-[![Kayla Kremer Banner](https://github.com/myoshievents/.github/blob/main/header.png)](https://www.myoshievents.com)
+<img width="2056" height="765" alt="header" src="https://github.com/user-attachments/assets/0e4510c4-26a3-467d-bbe1-d552a76c64dd" />
+
